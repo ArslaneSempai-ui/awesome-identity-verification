@@ -34,6 +34,7 @@ Hosted APIs and SDKs for document verification, biometrics, and compliance scree
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) — General-purpose OCR engine often used as a baseline for document text extraction.
 - [OpenSanctions yente](https://github.com/opensanctions/yente) — Self-hostable sanctions & PEP screening API over the OpenSanctions dataset.
 - [MRZ parsers](https://github.com/topics/mrz) — Libraries for reading the machine-readable zone on passports and ID cards.
+- [Cascade Screening](https://github.com/ArslaneSempai-ui/cascade-screening) — Batch screening of company and vessel names against OFAC, CSL, UN and EU lists, with a published blind test of its match rates. Source-available (PolyForm Noncommercial 1.0.0), not open source.
 
 ## Sanctions & AML Data
 
